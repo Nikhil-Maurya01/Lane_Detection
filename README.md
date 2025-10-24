@@ -35,7 +35,6 @@ A beginner-friendly **lane detection system** built using **OpenCV** and **NumPy
 
 ### Output
 - A video stream with detected lane lines overlaid in red.
-- Optionally, save the processed video to `output/result.mp4`.
 
 ---
 
