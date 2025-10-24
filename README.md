@@ -46,3 +46,14 @@ A beginner-friendly **lane detection system** built using **OpenCV** and **NumPy
 4. **Detect lines using Hough Transform**
 5. **Average and draw lane lines**
 6. **Overlay results on original frame**
+
+---
+
+## 🖼️ Output Example
+
+Below is a sample frame from the lane detection system. The red lines represent the detected lane boundaries using Canny edge detection and Hough Line Transform.
+This visual demonstrates how the system isolates the road area, detects edges, and overlays the lane lines in real-time. It's a foundational step toward building more advanced driver-assistance systems (ADAS) or autonomous driving modules.
+
+![Result Image](result.png)
+
+
