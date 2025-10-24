@@ -47,5 +47,3 @@ A beginner-friendly **lane detection system** built using **OpenCV** and **NumPy
 4. **Detect lines using Hough Transform**
 5. **Average and draw lane lines**
 6. **Overlay results on original frame**
-
----
